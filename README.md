@@ -2,7 +2,7 @@
 
 This repository contains the HTML, CSS, and JavaScript code for my personal portfolio website. The website showcases my skills, projects, and provides a way for visitors to connect with me.
 
-Check Out my portfolio [https://googly1030.free.nf]
+Check Out my portfolio [https://portfolio-googly1030.pages.dev/]
 
 ## Table of Contents
 - [Introduction](#introduction)
